@@ -37,11 +37,9 @@ font=JetBrains+Mono" />
 ## 🧰 Stack I Trust
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,java,sql&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,react&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,java,sql,nestjs,nodejs,react,postgres,mysql,mongodb,aws,azure,docker,git&theme=dark&perline=8" />
 </p>
+
 
 ---
 
