@@ -3,20 +3,18 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
+
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-font=Fira+Code&
-size=40&
-duration=3000&
-pause=1000&
-color=00F5A0&
-center=true&
-vCenter=true&
-width=700&
-lines=PIYUSH+DHANWAL" 
-  />
+  <img src="https://capsule-render.vercel.app/api?
+type=transparent&
+text=PIYUSH%20DHANWAL&
+fontColor=gradient&
+fontSize=60&
+fontAlignY=55&
+animation=fadeIn&
+font=JetBrains+Mono" />
 </p>
+
 
 
 <p align="center">
