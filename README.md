@@ -3,19 +3,21 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-<!-- COOL NAME -->
-<h1 align="center">
-  <span style="
-    background: linear-gradient(120deg, #00F5A0, #00D9F5, #7F5BFF, #FF4D8D);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-size: 56px;
-    font-weight: 900;
-    letter-spacing: 3px;
-  ">
-    PIYUSH DHANWAL
-  </span>
-</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&
+size=40&
+duration=3000&
+pause=1000&
+color=00F5A0&
+center=true&
+vCenter=true&
+width=700&
+lines=PIYUSH+DHANWAL" 
+  />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineer+⚡;Backend+%7C+AI%2FML+%7C+Data;I+ship.+Things.+That+work+🚀" />
