@@ -1,115 +1,77 @@
-<!-- Animated Header -->
+<!-- Hero Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Piyush+Dhanwal+👋;Software+Engineer+%7C+AI%2FML+%7C+Data+%26+Backend;Turning+Data+into+Decisions+🚀;Building+Scalable+Systems+with+Impact+⚡" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<!-- Gradient Name -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00F5A0, #00D9F5, #8A2BE2);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               font-weight: 900;">
+    PIYUSH DHANWAL
+  </span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineer+⚡;AI%2FML+%7C+Backend+%7C+Data+Things;I+turn+coffee+into+scalable+systems+☕;Code+that+actually+ships+🚀" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 👋 Who am I (in short)?
 
-💻 **Software Engineer | AI/ML & Data Enthusiast**  
-🎓 B.Tech CSE (AI/ML) @ **The NorthCap University**  
-📍 Gurugram, India  
+- 🧠 Engineer who **likes data more than drama**
+- 🤖 I train models **and** APIs (no favoritism)
+- ⚙️ Backend guy who hates slow queries more than bugs
+- 📊 If it can be optimized, **I will optimize it**
 
-I love building **intelligent systems**, **scalable backends**, and **data-driven products** that actually *do something useful*.  
-From **ML pipelines on Azure** to **secure full-stack apps**, I’m all about **clean architecture + real impact** ⚡
-
----
-
-## 💼 Experience
-
-### 🚀 **Software Engineer — Stabor India** *(May 2025 – Oct 2025)*  
-- Built **end-to-end data pipelines** on **Azure ML + PostgreSQL**
-- Performed **EDA on revenue, user growth & energy data** → 📈 *85% forecasting accuracy*
-- Integrated **ML models into APIs** for real-time insights & anomaly detection
-- Optimized queries → ⚡ **40% faster response time**
-- Automated testing → 🧪 **30% less QA effort**
-
-**Tech:** `Azure ML` `Python` `PostgreSQL` `scikit-learn` `Pandas`
+> *“Works on my machine” is not a deployment strategy.*
 
 ---
 
-### 🛡 **Software Development Intern — NTRO** *(Aug 2024 – Dec 2024)*  
-- Analyzed **network traffic logs** to detect security threats
-- Improved ML signal quality by **45%** via data preprocessing
-- Built **anomaly detection models** with **87% accuracy**
-- Automated analytics reports → **60% less manual work**
+## 🛠 Stuff I Actually Use
 
-**Tech:** `Python` `Pandas` `scikit-learn` `Jupyter`
+**Languages:**  
+`Python` `TypeScript` `Java` `SQL`
 
----
+**Backend & Infra:**  
+`NestJS` `Node.js` `JWT` `REST APIs` `PostgreSQL` `MySQL`
 
-### 📊 **Data Analytics Intern — YoShops** *(May 2023 – Jul 2023)*  
-- Analyzed **10K+ sales records** for business insights
-- Built **interactive Power BI dashboards**
-- Reduced reporting time by **50%**
+**AI / ML:**  
+`scikit-learn` `TensorFlow` `NLP` `RAG` `FAISS`
 
-**Tech:** `Power BI` `Python` `SQL` `Data Visualization`
+**Data & Viz:**  
+`Pandas` `Power BI` `Matplotlib`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I’ve Built (flex but chill)
 
-### 🩺 **Medi-Assist — Voice-Enabled Clinical Assistant**
-🔹 AI healthcare assistant automating **70%** of patient intake  
-🔹 NLP with **spaCy + regex** → **60% faster data entry**  
-🔹 **RAG pipeline** (FAISS + Llama-2) → 🎯 **92% accuracy**  
-🔹 Streamlit & Chainlit chat UI serving **1000+ medical queries**
+🩺 **AI Health Assistant**  
+→ Talks like a human, thinks like a model, answers like a doctor  
+→ RAG-powered, offline-friendly, no hallucinations (mostly 👀)
 
-**Stack:** `Python` `LangChain` `FAISS` `Llama-2` `spaCy` `RAG`
+🍞 **Full-Stack Platform**  
+→ Payments, auth, dashboards, emails — all wired  
+→ Yes, it scales. No, it didn’t break on launch 🙂
 
----
-
-### 🍞 **Gurukul Bakery — Full-Stack Platform**
-🔹 Full-stack bakery + course management system  
-🔹 Served **500+ users**, admin panel for **100+ products**  
-🔹 Stripe payments, JWT auth, Cloudinary uploads  
-🔹 Automated emails → **60% faster responses**
-
-**Stack:** `NestJS` `React` `MySQL` `TypeORM` `Stripe` `Tailwind`
+📊 **Data Pipelines**  
+→ Raw data → clean insights → business decisions  
+→ Reduced load time, stress, and unnecessary meetings
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Philosophy
 
-### 👨‍💻 Languages  
-`Python` `Java` `TypeScript` `SQL`
-
-### 🤖 Machine Learning  
-`Regression` `Classification` `Clustering`  
-`Decision Trees` `Random Forest` `K-Means`
-
-### 📊 Data & Visualization  
-`Power BI` `Matplotlib` `Seaborn` `Plotly`
-
-### 🧰 Libraries & Tools  
-`scikit-learn` `TensorFlow` `Keras` `Pandas` `NumPy`
-
-### 🗄 Databases  
-`MySQL` `PostgreSQL` `MongoDB`
+- Clean code > clever code  
+- Logs > assumptions  
+- Shipping > overthinking  
+- Sleep > production bugs at 3AM (sometimes)
 
 ---
 
-## ☁ Certifications
-✅ **AWS Cloud Foundation**
-
----
-
-## 🌐 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:piyushdhanwal2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/YOUR_GITHUB">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
+## 📈 GitHub Energy
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -121,6 +83,22 @@ From **ML pipelines on Azure** to **secure full-stack apps**, I’m all about **
 
 ---
 
+## 🌐 Find Me Here
+
 <p align="center">
-  🚀 Building. Learning. Shipping. Repeating.
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:piyushdhanwal2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Still reading? Might as well check the repos 👀</i>
 </p>
