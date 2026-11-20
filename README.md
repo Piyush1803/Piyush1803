@@ -15,9 +15,7 @@ animation=fadeIn&
 font=JetBrains+Mono" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Backend+Engineer+⚡;AI+Engineer+%7C+LLMs+·+RAG+·+MCP+🤖;EV+Charging+·+OCPP+%2F+OCPI+🔌;50%25+faster+APIs.+10M%2B+rows+moved.+📦;I+ship.+Things.+That+work.+🚀" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Gurugram,_India-1f2937?style=flat-square" />
